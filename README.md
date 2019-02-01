@@ -18,4 +18,4 @@ A la hora de proponer una actividad ten en cuenta que esta comunidad está orien
 
 ## Código de conducta
 
-La comunidad AsturiasHacking se rige por un [código de conducta](https://github.com/NorthemQuality/community-documentation/blob/master/CODIGO_CONDUCTA.md) que es de obligado cumplimiento por parte de miembros, organizadores y asistentes.
+La comunidad NorthemQuality se rige por un [código de conducta](https://github.com/NorthemQuality/community-documentation/blob/master/CODIGO_CONDUCTA.md) que es de obligado cumplimiento por parte de miembros, organizadores y asistentes.
