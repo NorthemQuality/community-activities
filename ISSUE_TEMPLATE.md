@@ -25,4 +25,4 @@
 Todas nuestras actividades están obligadas a respetar nuestro [código de conducta][code of conduct] y cumplir el conjunto de [términos y condiciones][terms].
 
 [code of conduct]: https://github.com/NorthemQuality/community-documentation/blob/master/CODIGO_CONDUCTA.md
-[terms]: Añadir términos
+[terms]: https://github.com/NorthemQuality/community-activities/blob/master/TERMS.md
