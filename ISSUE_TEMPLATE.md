@@ -20,6 +20,11 @@
 
 > ¡Ayúdanos a conocerte! Aprovecha esta sección para explicar quién eres, tu experiencia y cualquier otra información relevante para la comunidad
 
+## Enlace al video
+
+> En enlace del video se pondrá aquí cuando se genere.
+
+
 ---
 
 Todas nuestras actividades están obligadas a respetar nuestro [código de conducta][code of conduct] y cumplir el conjunto de [términos y condiciones][terms].
